@@ -37,12 +37,6 @@ Desenvolvi uma plataforma de cursos online com Python e Django, incluindo funcio
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LucasUanderson&show_icons=true&theme=radical)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasUanderson&layout=compact&theme=radical)
-
 ---
 
 ## 📫 Contato
