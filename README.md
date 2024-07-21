@@ -1,4 +1,4 @@
-# Lucas Uanderson 🚀
+# Lucas Uanderson 
 
 ## Bem-vindo ao meu perfil no GitHub!
 
@@ -6,7 +6,7 @@
 
 ---
 
-## 🛠️ Habilidades Técnicas
+## Habilidades Técnicas
 
 - **Linguagens de Programação:** Python, Java e Javascript
 - **Desenvolvimento Web:** Flask, Spring, bootstrap 5, Html e Css
