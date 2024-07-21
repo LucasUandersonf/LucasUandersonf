@@ -18,7 +18,7 @@
 
 ## 🚀 Projetos
 
-### Projeto de Reconhecimento Facial para a Clínica Oftalmocasa
+### [Projeto de Reconhecimento Facial para a Clínica Oftalmocasa](https://github.com/seu-usuario/projeto2)
 Desenvolvi um projeto de reconhecimento facial voltado para a Clínica Oftalmocasa. A ideia principal do projeto é reconhecer o rosto do médico e, em seguida, enviar um comando para imprimir a identificação do mesmo.
 
 
