@@ -2,14 +2,14 @@
 
 ## Bem-vindo ao meu perfil no GitHub!
 
-Sou Lucas Uanderson, um desenvolvedor de software apaixonado por tecnologia e inovação. Estou no penúltimo período do curso de Engenharia de Software na Estácio de Sá e trabalho como gestor de TI em uma clínica oftalmológica. Estou sempre em busca de novos desafios e oportunidades para crescer como profissional.
+Sou Lucas Uanderson, um desenvolvedor de software apaixonado por tecnologia e inovação. Estou no 6º período do curso de Engenharia de Software na Estácio de Sá e trabalho como gestor de TI em uma clínica oftalmológica. Estou sempre em busca de novos desafios e oportunidades para crescer como profissional.
 
 ---
 
 ## 🛠️ Habilidades Técnicas
 
-- **Linguagens de Programação:** JavaScript, Python, Java, C#
-- **Desenvolvimento Web:** HTML, CSS, React, Node.js
+- **Linguagens de Programação:** Python, Java e Javascript
+- **Desenvolvimento Web:** Flask, Spring, bootstrap 5, Html e Css
 - **Banco de Dados:** MySQL, PostgreSQL, MongoDB
 - **DevOps:** Docker, Kubernetes, CI/CD
 - **Ferramentas e Tecnologias:** Git, GitHub, VSCode, Linux
@@ -18,8 +18,9 @@ Sou Lucas Uanderson, um desenvolvedor de software apaixonado por tecnologia e in
 
 ## 🚀 Projetos
 
-### [Projeto 1: Sistema de Gestão de Clínica Oftalmológica](https://github.com/seu-usuario/projeto1)
-Desenvolvi um sistema completo para a gestão de uma clínica oftalmológica, incluindo funcionalidades de agendamento, gerenciamento de pacientes, e controle de estoque.
+### Projeto de Reconhecimento Facial para a Clínica Oftalmocasa
+Desenvolvi um projeto de reconhecimento facial voltado para a Clínica Oftalmocasa. A ideia principal do projeto é reconhecer o rosto do médico e, em seguida, enviar um comando para imprimir a identificação do mesmo.
+
 
 ### [Projeto 2: Aplicativo de E-commerce](https://github.com/seu-usuario/projeto2)
 Criei um aplicativo de e-commerce utilizando React e Node.js, com integração de pagamentos e sistema de recomendação de produtos.
