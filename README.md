@@ -1,8 +1,9 @@
 # Lucas Uanderson 
 
-## Bem-vindo ao meu perfil no GitHub!
+## Bem-vindo!
 
-  Sou Lucas Uanderson, um desenvolvedor de software apaixonado por tecnologia e inovação. Estou no 6º período do curso de Engenharia de Software na Estácio de Sá e trabalho como gestor de TI em uma clínica oftalmológica. Estou sempre em busca de novos desafios e oportunidades para crescer como profissional.
+E aí, sou o Lucas Uanderson! 
+Aqui é onde compartilho minhas aventuras no mundo da programação, no dia a dia, gerencio a TI em uma clínica oftalmológica e durante a noite sou um estudante de engenharia de software.
 
 
 ## Habilidades Técnicas
