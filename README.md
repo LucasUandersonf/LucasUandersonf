@@ -5,14 +5,6 @@
   Sou Lucas Uanderson, um desenvolvedor de software apaixonado por tecnologia e inovação. Estou no 6º período do curso de Engenharia de Software na Estácio de Sá e trabalho como gestor de TI em uma clínica oftalmológica. Estou sempre em busca de novos desafios e oportunidades para crescer como profissional.
 
 
-## 📈 Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LucasUanderson&show_icons=true&theme=radical)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasUanderson&layout=compact&theme=radical)
-
----
-
 ## Habilidades Técnicas
 
 - **Linguagens de Programação:** Python, Java e Javascript
