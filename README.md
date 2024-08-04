@@ -10,25 +10,9 @@ Aqui é onde compartilho minhas aventuras no mundo da programação, no dia a di
 
 - **Linguagens de Programação:** Python, Java e Javascript
 - **Desenvolvimento Web:** Flask, Spring, bootstrap 5, Html e Css
-- **Banco de Dados:** MySQL, PostgreSQL, MongoDB
-- **DevOps:** Docker, Kubernetes, CI/CD
+- **Banco de Dados:** MySQL
 - **Ferramentas e Tecnologias:** Git, GitHub, VSCode, Linux
-
----
-
-## 🚀 Projetos
-
-### [Projeto de Reconhecimento Facial para a Clínica Oftalmocasa](https://github.com/seu-usuario/projeto2)
-Desenvolvi um projeto de reconhecimento facial voltado para a Clínica Oftalmocasa. A ideia principal do projeto é reconhecer o rosto do médico e, em seguida, enviar um comando para imprimir a identificação do mesmo.
-
-
-### [Projeto 2: Aplicativo de E-commerce](https://github.com/seu-usuario/projeto2)
-Criei um aplicativo de e-commerce utilizando React e Node.js, com integração de pagamentos e sistema de recomendação de produtos.
-
-### [Projeto 3: Plataforma de Cursos Online](https://github.com/seu-usuario/projeto3)
-Desenvolvi uma plataforma de cursos online com Python e Django, incluindo funcionalidades de cadastro de usuários, criação de cursos, e acompanhamento de progresso.
-
----
+- **Conhecimentos Adicionais:** Infraestrutura, Habilidades de Comunicação, Planejamento e Estratégia de TI
 
 ---
 
@@ -44,9 +28,7 @@ Desenvolvi uma plataforma de cursos online com Python e Django, incluindo funcio
 
 - **Engenharia de Software** - Estácio de Sá (penúltimo período)
 
----
 
-Obrigado por visitar meu perfil! Fique à vontade para explorar meus projetos e entrar em contato.
 
 
 
