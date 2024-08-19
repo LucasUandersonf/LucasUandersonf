@@ -18,7 +18,7 @@ Aqui é onde compartilho minhas aventuras no mundo da programação, no dia a di
 
 ## 📫 Contato
 
-- **E-mail:** [seu-email@example.com](mailto:seu-email@example.com)
+- **E-mail:** [seu-email@example.com](lucasuanderson159@live.com)
 - **LinkedIn:** [Lucas Uanderson](https://www.linkedin.com/in/seu-usuario)
 - **Portfólio:** [seu-portfolio.com](https://seu-portfolio.com)
 
