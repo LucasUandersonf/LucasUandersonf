@@ -2,7 +2,7 @@
 <h3 align="center">🧠 Engenheiro de Software em formação | Backend Developer focado em soluções escaláveis e reais</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,100:00d4ff&height=200&section=header&text=Backend%20em%20Evolução!&fontColor=ffffff&fontSize=40&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=200&section=header&text=Backend%20em%20Evolução!&fontColor=ffffff&fontSize=40&animation=fadeIn" />
 </p>
 
 ---
