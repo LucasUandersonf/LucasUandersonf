@@ -1,81 +1,94 @@
-<h1 align="center">👋 Olá, eu sou o Lucas Uanderson</h1>
-<h3 align="center">🧠 Engenheiro de Software em formação | Backend Developer focado em soluções escaláveis e reais</h3>
+<h1 align="center" style="color:#00FF9F">🧠 Lucas Uanderson</h1>
+<h3 align="center" style="color:#FFD700">Backend Developer em Ascensão Constante • Criando soluções com código limpo e propósito</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,100:00d4ff&height=200&section=header&text=Backend%20em%20Evolução!&fontColor=ffffff&fontSize=40&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7E0E15&height=200&section=header&text=Backend%20em%20Evolução!&fontColor=ffffff&fontSize=40&animation=fadeIn" />
 </p>
 
 ---
 
-🎯 **Missão:** Transformar minha história por meio da tecnologia e consolidar uma carreira de excelência no desenvolvimento backend.
+## 📌 Sobre Mim
 
-🧩 **Stack atual:**
+Sou um desenvolvedor backend que acredita em **construir com propósito**. Carrego comigo a convicção de que a tecnologia é ferramenta de transformação — inclusive da minha própria vida.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-CA5043?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+Tenho como missão **entregar soluções reais, funcionais e bem projetadas**, com foco em backend, arquitetura limpa e experiência do usuário final.
 
-📚 **Aprimorando:** Docker · Pytest · PostgreSQL · FastAPI · Clean Architecture · CI/CD
+> 🧩 "Mais do que escrever código: projeto sistemas com intenção, clareza e evolução contínua."
 
 ---
 
-## 🧠 Sobre mim
+## 🛠️ Tech Stack
 
-- 🎓 Bacharel em Engenharia de Software pela Estácio
-- 💼 Experiência com suporte técnico em TI
-- 🔍 Foco em desenvolvimento backend com Python, Flask e arquitetura limpa
-- 🚀 Criador do projeto **[TaskHub](https://github.com/lucasuanderson/taskhub)** — sistema robusto de gerenciamento de tarefas com autenticação, CRUD, Bootstrap e estrutura modular
-- 🗣️ Comprometido em compartilhar conhecimento de forma acessível e didática para iniciantes
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-2F2F2F?style=for-the-badge&logo=python&logoColor=00FF9F" />
+  <img src="https://img.shields.io/badge/Flask-2F2F2F?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-2F2F2F?style=for-the-badge&logo=sqlalchemy&logoColor=FFD700" />
+  <img src="https://img.shields.io/badge/Git-2F2F2F?style=for-the-badge&logo=git&logoColor=FF4500" />
+  <img src="https://img.shields.io/badge/Bootstrap-2F2F2F?style=for-the-badge&logo=bootstrap&logoColor=7952B3" />
+</div>
 
----
-
-## 🕹️ Nível de Evolução (como em um jogo retrô 👾)
-
-🐍 Python               ▓▓▓▓▓▓▓▓▓░░░ <br>
-⚙️ Flask                ▓▓▓▓▓▓▓░░░░░ <br>
-📦 SQLAlchemy           ▓▓▓▓▓▓▓░░░░░ <br>
-🧪 Testes (Pytest)      ▓▓▓░░░░░░░░░ <br>
-🐳 Docker               ▓▓▓░░░░░░░░░ <br>
-🧱 Clean Architecture   ▓▓░░░░░░░░░░ <br>
+📚 **Em desenvolvimento:** Docker · Pytest · PostgreSQL · CI/CD · FastAPI · Clean Architecture
 
 ---
 
-## 📊 Minhas Estatísticas
+## 🔁 Nível de Proficiência Técnica
+
+| Tecnologia           | Domínio Atual         |
+|----------------------|------------------------|
+| 🐍 Python            | ██████████░░ (80%)     |
+| ⚙️ Flask             | ████████░░░ (70%)      |
+| 📦 SQLAlchemy        | ████████░░░ (70%)      |
+| 🧪 Pytest             | ████░░░░░░ (40%)       |
+| 🐳 Docker             | ████░░░░░░ (40%)       |
+| 🧱 Clean Architecture | ███░░░░░░░░ (30%)       |
+
+> 🎮 Estilo gamer com mentalidade de engenheiro: subir de nível todos os dias.
+
+---
+
+## 🚀 Projeto Destaque
+
+### 🎯 TaskHub — Aplicação Web de Gerenciamento de Tarefas
+
+**Stack:** Flask · SQLAlchemy · Flask-Login · Flask-Migrate · Bootstrap · Blueprints
+
+🔧 **Funcionalidades:**
+- Autenticação de usuários com segurança
+- CRUD completo com layout responsivo
+- Estrutura modular e escalável
+- Arquitetura limpa com boas práticas
+
+📁 **Repositório:** [lucasuanderson/taskhub](https://github.com/lucasuanderson/taskhub)
+
+---
+
+## 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasuanderson&show_icons=true&theme=tokyonight&hide_title=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasuanderson&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lucasuanderson&show_icons=true&theme=radical&hide_title=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasuanderson&layout=compact&theme=radical" height="150"/>
 </p>
-
----
-
-## 🚧 Projeto em Destaque
-
-### 🔧 TaskHub – Aplicação de Gerenciamento de Tarefas
-
-> **Tecnologias utilizadas:** Flask · SQLAlchemy · Flask-Login · Flask-Migrate · Blueprints · Bootstrap
-
-> **Funcionalidades principais:**
-> - CRUD completo com autenticação
-> - Interface responsiva com Bootstrap
-> - Estrutura modular, escalável e profissional
-> - Código limpo, seguindo boas práticas de engenharia
-
-🔗 [Acesse o repositório](https://github.com/lucasuanderson/taskhub)
 
 ---
 
 ## 🌐 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Uanderson-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/seu-linkedin)
-[![Portfólio](https://img.shields.io/badge/Blog%20Técnico-Em%20Breve-lightgrey?style=flat-square&logo=github)](https://github.com/lucasuanderson)
+<p align="center">
+  <a href="https://www.linkedin.com/in/seu-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Uanderson-007ACC?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/lucasuanderson">
+    <img src="https://img.shields.io/badge/Blog%20Técnico-Em%20Breve-2F2F2F?style=for-the-badge&logo=github&logoColor=FFD700" />
+  </a>
+</p>
 
 ---
 
-🧙‍♂️ _“Transformar dor em código, exclusão em competência e um passado difícil em um futuro extraordinário.”_
+## 🧙‍♂️ Assinatura de Vida e Código
+
+> _"Transformo dor em aprendizado, obstáculos em arquitetura, e um passado difícil em um futuro extraordinário."_
+
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:020024&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B0C10&height=120&section=footer"/>
 </p>
