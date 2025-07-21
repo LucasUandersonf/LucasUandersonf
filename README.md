@@ -1,9 +1,3 @@
-<h1 align="center" style="color:#00FF9F">🧠 Lucas Uanderson</h1>
-<h3 align="center" style="color:#FFD700">Backend Developer em Ascensão Constante • Criando soluções com código limpo e propósito</h3>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7E0E15&height=200&section=header&text=Backend%20em%20Evolução!&fontColor=ffffff&fontSize=40&animation=fadeIn" />
-</p>
 
 ---
 
