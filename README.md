@@ -59,8 +59,8 @@ Tenho como missão **entregar soluções reais, funcionais e bem projetadas**, c
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasuanderson&show_icons=true&theme=radical&hide_title=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasuanderson&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lucasuandersonf&show_icons=true&theme=radical&hide_title=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasuandersonf&layout=compact&theme=radical" height="150"/>
 </p>
 
 ---
