@@ -68,7 +68,7 @@ Tenho como missão **entregar soluções reais, funcionais e bem projetadas**, c
 ## 🌐 Conecte-se comigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/seu-linkedin">
+  <a href="https://www.linkedin.com/in/LucasUanderson">
     <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Uanderson-007ACC?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/lucasuanderson">
